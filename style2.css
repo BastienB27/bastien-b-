@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    flex: 1;
+    background-color: greenyellow;
+    height: 50vh;
+    height: 15vh;
+}
+
+.footer {
+    background-color: green;
+}
+
+.centre {
+    display: flex;
+    flex-direction: column;
+}
+
+.milieu {
+    background-color: azure;
+}
+
+.aside {
+    background-color: blue;
+}
+
+.navigation {
+    background-color: red;
+}

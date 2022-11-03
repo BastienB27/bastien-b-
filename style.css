@@ -1,0 +1,51 @@
+body {
+    display: flex;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    background-color: red;
+    flex: 1;
+    height: 90vh;
+}
+
+
+.bloc {
+    flex: 3;
+}
+
+
+.header {
+    background-color: greenyellow;
+    height: 20vh;
+}
+
+.centre {
+    background-color: azure;
+    height: 50vh;
+}
+
+.footer {
+    background-color: greenyellow;
+    height: 20vh;
+}
+
+.side {
+    background-color: gray;
+    flex: 1;
+    height: 70vh;
+}
+
+.finalite {
+    display: flex;
+    flex-direction: row;
+}
+
+.milieu {
+    display: flex;
+    flex-direction: column;
+    flex: 3;
+}
+
+
